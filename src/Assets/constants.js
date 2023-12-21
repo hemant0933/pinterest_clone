@@ -22,6 +22,10 @@ import outfitIdea2 from "./outfit2.jpg"
 import outfitIdea3 from "./outfit3.jpg"
 import outfitIdea4 from "./outfit4.jpg"
 import outfitIdea5 from "./outfit5.jpg"
+import blueJacket from "./blue_jacket_girl.png";
+import logo from "./pinterest-logo.png";
+
+
 
 
 
@@ -56,3 +60,8 @@ export const Outfit_Ideas =[
     outfitIdea4,
     outfitIdea5,
 ];
+
+
+export const otherImage = [
+    blueJacket,logo
+]
